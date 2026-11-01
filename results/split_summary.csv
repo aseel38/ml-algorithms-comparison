@@ -1,0 +1,5 @@
+Split,Samples,Benign (0),Malignant (1),Malignant %
+Train,397,249,148,37.3
+Validation,86,54,32,37.2
+Test,86,54,32,37.2
+Total,569,357,212,37.3

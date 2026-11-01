@@ -1,0 +1,21 @@
+{
+  "Logistic Regression": {
+    "C": 0.1,
+    "penalty": "l2"
+  },
+  "k-Nearest Neighbors": {
+    "n_neighbors": 1,
+    "weights": "uniform",
+    "metric": "euclidean"
+  },
+  "Support Vector Machine": {
+    "C": 100,
+    "kernel": "rbf",
+    "gamma": 0.01
+  },
+  "Random Forest": {
+    "n_estimators": 100,
+    "max_depth": null,
+    "min_samples_split": 2
+  }
+}
